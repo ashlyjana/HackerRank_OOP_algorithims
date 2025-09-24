@@ -1,0 +1,1 @@
+This program is like a calculator that adds two numbers. The function called solveMeFirst takes two numbers, a and b, and just returns their sum, then adds them and displays number of sum. The val1 is for the first number and the val2 is for the second number, and finally printing the total sum.
