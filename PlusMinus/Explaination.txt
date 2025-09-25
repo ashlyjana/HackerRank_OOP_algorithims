@@ -1,0 +1,2 @@
+The program name plus minus. An array of integers, calculating the ratios of its elements that are positive, negative, zero, and total. The function is plusMinus.Using 
+A foreach loop to present the if-else condition. If the number is greater than 0, prints 'positive', if the number is less than 0, prints 'negative', and if the number is 0, prints 'zero count'. 
