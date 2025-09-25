@@ -1,0 +1,1 @@
+This code works using the DateTime class from the .NET framework and the CultureInfo.InvariantCulture setting to correctly parse the 12-hour time format (hh:mm:sstt) and then format it into the 24-hour format (HH:mm:ss).
