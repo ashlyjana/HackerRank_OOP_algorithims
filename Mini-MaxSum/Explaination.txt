@@ -1,0 +1,3 @@
+This code goes through an array of numbers, adding them all together while also checking for the smallest and largest values.
+ Once the loop is done, it calculates two results: the minimum sum (by subtracting the largest number from the total sum) and the maximum sum (by subtracting the smallest number from the total sum).
+ Finally, it prints both values, which represent the smallest and largest possible sums when you add all numbers except one.
