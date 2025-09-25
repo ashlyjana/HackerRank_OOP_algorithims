@@ -1,0 +1,1 @@
+The program solves the function Compare the Triplets. Integers Alice scores and Bob scores. If Alice number is greater than Bobs number, Alice gets one point, If else bobs number is greater than alice, Bob have one point. Then if the number is equal no one gets a score. return new List int for alice and bob.
