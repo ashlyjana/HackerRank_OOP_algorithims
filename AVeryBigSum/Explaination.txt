@@ -1,0 +1,1 @@
+This program using function of aVeryBigSum. I used foreach loop. It reads a list of large integers and adding them together. It prints the total. First read how many numbers there are it takes all the numbers from the user and puts them in a list. it keep adding them to total and return the sum and prints the sum.
