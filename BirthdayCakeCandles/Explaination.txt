@@ -1,0 +1,3 @@
+This code determines how many of the birthday candles are the tallest. 
+First, it uses candles.Max() to find the highest candle height in the list. Then, it uses candles.Count(x => x == max) to count how many candles have that same maximum height.
+ Finally, it returns this count, which represents the number of tallest candles that can be blown out.
