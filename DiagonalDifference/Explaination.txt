@@ -1,0 +1,1 @@
+The diagonalDifference function calculates the absolute difference between the sums of a matrix’s two diagonals by looping through each row, subtracting the secondary diagonal value from the primary diagonal value, and returning the positive result.
