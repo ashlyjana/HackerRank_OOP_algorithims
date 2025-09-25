@@ -1,0 +1,3 @@
+This code prints a right-aligned staircase by looping from
+ 1 to n, creating n-i spaces and i # characters on each line, then printing
+ them together.
