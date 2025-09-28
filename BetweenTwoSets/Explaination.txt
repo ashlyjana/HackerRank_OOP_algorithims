@@ -1,0 +1,5 @@
+The program counts how many integers are “between” two sets a and b;
+ it starts by finding the largest number in a (maxA) and the smallest number in b (minB),
+ then checks every number i between them; for each i, it first verifies if it is divisible by all elements of a (making it a common multiple of a),
+ and if so, it then checks whether it divides all aspects of b evenly (making it a common factor of b); only when both conditions are satisfied,
+ the counter total is increased; finally, the program returns the total count of such numbers that fit both requirements.
