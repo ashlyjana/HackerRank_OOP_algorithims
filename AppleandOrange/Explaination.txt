@@ -1,0 +1,4 @@
+This code checks how many apples and oranges is their. its appleCount and orangeCount, the function use is countAppleAndOrange. 
+I used integer and foreach loop. Using the if condition, if (position >= s&& position <= t) and print the applecount.
+ Again is used foreach (int orange in orange) and using if
+ condition if (position >= s && position <= t) and printing orange count/.
