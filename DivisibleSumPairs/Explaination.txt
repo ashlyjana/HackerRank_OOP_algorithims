@@ -1,0 +1,4 @@
+The program divisibleSumPairs counts how many pairs of elements in an array have a sum divisible by a given number k.
+ It starts by reading the inputs n (array size), k (divisor), and the array ar, then initializes a counter sum = 0.
+ Using two nested loops, the outer loop picks one element at index i while the inner loop pairs it with every element at index j after it. For each pair (ar[i], ar[j]), the program checks if (ar[i] + ar[j]) % k == 0; if true, it increments sum.
+ After both loops finish, the final value of sum is returned and printed as the total number of valid pairs.
