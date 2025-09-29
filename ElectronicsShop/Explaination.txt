@@ -1,0 +1,6 @@
+This program helps find the most money a person can spend on buying one keyboard and one USB drive without going over their budget.
+ It works by checking every possible pair of keyboard and drive prices.
+ For each pair, it adds the prices to get the total cost.
+ If the total cost is within the budget and higher than the current maximum found, it updates the maximum.
+ If no pair fits the budget, it returns -1.
+ Finally, it prints the maximum amount of money that can be spent.
