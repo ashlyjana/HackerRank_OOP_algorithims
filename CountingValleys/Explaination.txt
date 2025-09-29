@@ -1,0 +1,5 @@
+
+This program finds how many valleys a hiker crosses.
+ A valley is when the hiker goes below sea level and comes back up. The program keeps track of the hiker’s steps up (U) and down (D).
+ Each time the hiker goes back to sea level after going down, it counts as one valley. 
+In the end, it shows the total valleys.
