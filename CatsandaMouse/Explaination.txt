@@ -1,0 +1,2 @@
+This program checks which cat is closer to the mouse. It finds the distance from Cat A to the mouse and from Cat B to the mouse.
+ If Cat A is closer, it prints "Cat A". If Cat B is closer, it prints "Cat B". If both are the same distance, it prints "Mouse C".
