@@ -1,0 +1,6 @@
+The migratoryBirds program determines which bird type appears most frequently in a given list of bird sightings. 
+It first initializes an array counts of size 6 (index 1–5 represent bird types) to store the frequency of each bird type.
+ As it iterates through the input list arr, it increments the count for each bird type in counts. 
+After counting, it loops through bird types 1 to 5, keeping track of the highest frequency found and storing the corresponding bird type in result.
+ If two or more bird types have the same frequency, the one with the smaller type number is chosen since the loop checks in increasing order. 
+Finally, it returns the result, which is then printed as the most common bird type.
