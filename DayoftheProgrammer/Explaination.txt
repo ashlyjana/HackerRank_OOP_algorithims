@@ -1,0 +1,4 @@
+The dayOfProgrammer program determines the exact date of the 256th day of a given year in Russia, considering the country’s calendar transition.
+ If the year is 1918, Russia switched from the Julian to the Gregorian calendar, so the date is fixed at 26.09.1918.
+ If the year is before 1918, the Julian calendar rules apply, where a leap year occurs if the year is divisible by 4; leap years return 12.09.year, while non-leap years return 13.09.year.
+ For years after 1918, the Gregorian calendar rules apply, where a leap year occurs if the year is divisible by 400 or divisible by 4 but not by 100; leap years again return 12.09.year, and non-leap years return 13.09.year. The program then prints the resulting date as the output.
