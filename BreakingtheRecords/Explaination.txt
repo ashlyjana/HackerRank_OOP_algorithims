@@ -1,0 +1,6 @@
+The breakingRecords program checks how many times the highest and lowest scores are broken in a series of games. It starts by taking the first score as both the initial minimum and maximum,
+ Then loops through the list of scores to compare each value. 
+If a score is higher than the current maximum, it updates the maximum and increases the count of record-breaking highs. 
+
+If a score is lower than the current minimum, it updates the minimum and increases the count of record-breaking lows. After processing all the scores,
+ It returns the total number of times the highest and lowest records were broken, which is then displayed as the output.
