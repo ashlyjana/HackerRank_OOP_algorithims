@@ -1,0 +1,3 @@
+The bonAppetit program checks if Anna was charged fairly for her share of a meal. 
+The list bill contains the cost of each item, and Anna didn’t eat the item at index k. The program calculates the totalCost of all items, then computes Anna’s fair share as (totalCost - bill[k]) / 2, since she shouldn’t pay for the excluded item and the rest is split equally.
+ It then compares this fair share to the amount b (the amount Anna was actually charged). If both values match, it prints “Bon Appetit”, meaning the charge was correct. Otherwise, it prints the difference b - annaShare, which is the amount Brian must refund to Anna.
