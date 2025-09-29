@@ -1,0 +1,1 @@
+This program finds how many pairs of socks are in a list. it sorts the socks by color, then checks them one by one; if two socks next to each other are the same, it counts them as a pair and skips both, otherwise it just moves to the next sock; in the end, it prints the total number of pairs found.
