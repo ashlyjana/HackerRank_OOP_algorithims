@@ -1,0 +1,2 @@
+The program finds the minimum number of page turns to reach a given page p in a book with n pages.
+ It counts how many turns from the front (p / 2) and from the back ((n / 2) - (p / 2)), then returns the smaller number. Finally, it prints that result.
