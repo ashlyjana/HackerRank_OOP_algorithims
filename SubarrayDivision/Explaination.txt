@@ -1,0 +1,4 @@
+The program solves the BirthdayChocolate problem by finding how many ways a list of integers s can be divided into continuous subarrays of length m whose sum equals d. It begins by setting counters for the current position and valid segments, 
+Then, it uses a while loop to iterate through the list and a for loop to calculate the sum of each subarray.
+ If a subarray’s sum matches d, it increases the count. Once all possible segments are checked, it returns the total count,
+ which represents the number of valid ways the chocolate bar can be divided according to the given conditions.
