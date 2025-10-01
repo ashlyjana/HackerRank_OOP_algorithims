@@ -1,0 +1,1 @@
+The code finds the tallest hurdle, and if the player’s jump height is enough it returns 0 otherwise it returns the difference between the tallest hurdle and the player’s jump height.
