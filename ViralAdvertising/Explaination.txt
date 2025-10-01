@@ -1,0 +1,4 @@
+This code simulates how an advertisement spreads over several days.
+ It starts with 5 people seeing the ad on the first day.
+ Each day half of the people who see the ad like it, and those who like it share the ad with 3 new friends.and 
+ The program keeps track of the total number of likes over all days and returns that total at the end.
