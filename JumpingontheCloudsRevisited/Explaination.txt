@@ -1,0 +1,3 @@
+The jumpingOnClouds function simulates jumping through clouds in a circlestarting with 100 energy. 
+Each jump of size k costs 1 energy, and landing on a thunderhead cloud costs an extra 2 energy. 
+The player jumps until returning to the start, and the function returns the remaining energy.
