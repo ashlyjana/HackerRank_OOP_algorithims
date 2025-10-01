@@ -1,0 +1,4 @@
+This code solves the problem of distributing sweets to prisoners sitting in a circle. 
+Given the number of prisoners n the number of sweets m  and the starting prisoner s the program calculates which prisoner will receive the last sweet. 
+It uses modular arithmetic to wrap around the circle correctly and returns the chair number of the prisoner who gets the last sweet.
+ The program handles multiple test cases by reading inputs and printing the results for each.
