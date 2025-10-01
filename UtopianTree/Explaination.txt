@@ -1,0 +1,3 @@
+This code calculates the height of a special tree that grows in cycles. The tree starts at height 1. 
+For each cycle, if the cycle number is odd, the tree’s height doubles, and if the cycle number is even, the tree grows by 1 meter. 
+The program reads the number of test cases, then for each test case, it reads the number of growth cycles, calculates the tree’s height after those cycles using the utopianTree function, and prints the result.
