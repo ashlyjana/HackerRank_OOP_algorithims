@@ -1,0 +1,4 @@
+This code calculates the highlighted area when a word is selected in a PDF viewer where each letter has a different height. 
+It takes a list of 26 numbers representing the heights of letters 'a' to 'z' and a word as input.
+ The program finds the tallest letter in the word by checking each letter’s height from the list, then multiplying that tallest height by the length of the word to get the total area.
+ Finally, it prints this area as the result.
