@@ -1,0 +1,2 @@
+This program finds the biggest group of numbers in a list where the difference between any two numbers is 0 or 1.
+ It sorts the list, then for each number, it counts how many numbers can stay with it under this rule. The largest count found is the answer.
