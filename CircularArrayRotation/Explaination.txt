@@ -1,0 +1,5 @@
+Thisprogram code performs a circular rotation on an array and then answers queries about the rotated array.
+ Circular rotation means shifting the elements of the array to the right by k positions, wrapping around the end to the beginning.
+ Instead of actually rotating the array, the code calculates the original position of each queried index before rotation using modular arithmetic.
+ For each query it finds the element in the original array that would appear at the queried position after rotation and returns those elements as the result. 
+This approach is efficient because it avoids modifying the array multiple times.
