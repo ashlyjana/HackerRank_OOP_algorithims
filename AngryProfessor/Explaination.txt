@@ -1,0 +1,4 @@
+This code helps decide if a professor will cancel a class based on student arrival times.
+ It reads multiple test cases, and for each one, it checks how many students arrive on time or early arrival time less than or equal to zero.
+ If the number of on-time students is less than a given threshold, the professor cancels the class and the program prints YES. 
+Otherwise, the class goes on and it prints NO.
