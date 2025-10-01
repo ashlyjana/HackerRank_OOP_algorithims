@@ -1,0 +1,4 @@
+This code counts how many "beautiful days" are between two given days, i and j.
+ A day is considered beautiful if the absolute difference between the day number and its reverse is divisible by a given number k.
+ The program goes through each day in the range, reverses the digits of the day number, calculates the difference, and checks if it is divisible by k.
+ It keeps track of how many days meet this condition and returns that count as the result.
