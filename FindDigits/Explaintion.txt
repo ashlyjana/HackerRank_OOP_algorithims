@@ -1,0 +1,3 @@
+Calling  function findDigits takes an integer n and counts how many of its digits evenly divide n.
+ It extracts each digit by repeatedly taking the remainder when dividing by 10 skips digits that are zero to avoid division by zero and checks if n is divisible by that digit. 
+The count of such digits is returned.
