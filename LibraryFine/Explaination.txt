@@ -1,0 +1,5 @@
+this libraryFine function calculates a fine based on how late a book is returned compared to its due date.
+ If the book is returned on time or early the fine is 0. If it’s late but in the same month and year the fine is 15 units per day late.
+ If it’s late by months but in the same year the fine is 500 units per month late.
+ If it’s returned in a later year the fine is a fixed 10,000 units. 
+The code checks these conditions step-by-step and returns the correct fine.
