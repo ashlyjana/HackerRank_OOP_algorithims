@@ -1,0 +1,2 @@
+This program calculates how many times the letter a appears in the first n characters of an infinitely repeated string s.
+ First, it counts how many a are in the original string s and it figures out how many times the full string s can fit into n characters and multiplies that by the count of 'a in s. After that, it checks the leftover part (if n is not a multiple of s.Length) and adds any extra 'a from that portion. Finally, it prints the total number of 'a' characters found.
