@@ -1,0 +1,1 @@
+the program is about the squares function, which efficiently counts the number of perfect squares  that lie within the inclusive range from a to b by avoiding iteration and using mathematical bounds
