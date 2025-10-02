@@ -1,0 +1,5 @@
+This code the appendAndDelete function determines if it's possible to transform string s into string t using at most k operations that append or delete from the end.
+ It first finds the length of the longest common prefix between s and t.
+ The minimum operations required are the deletions to remove the differing suffix of s plus the additions to build the differing suffix of t.
+ If k is enough to delete all of s and rebuild t entirely, it returns Yes.
+ Otherwise, if k meets or exceeds the minimum operations and any excess operations can be "wasted" in even pairs, then delete and append the same character. It returns Yes otherwise, it returns No.
