@@ -1,0 +1,4 @@
+The program starts at the first cloud. Each move, it tries to jump 2 steps if the cloud is safe.
+ If not is it jumps 1 step. Every jump is counted.
+ It keeps doing this until it reaches the last cloud.
+it prints the total number of jumps taken.
