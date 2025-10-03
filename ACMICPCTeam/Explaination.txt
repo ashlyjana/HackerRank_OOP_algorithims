@@ -1,0 +1,3 @@
+This program is about forming the best team out of a group of people. Each person knows some topics marked as 1 for yes, 0 for no. 
+The program checks every possible pair of people, adds up what they know together, and finds which team knows the most topics.
+ It then tells us two thing the maximum number of topics any team can cover, and how many different teams can reach that maximum.
