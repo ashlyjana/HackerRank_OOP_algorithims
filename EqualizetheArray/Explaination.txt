@@ -1,0 +1,2 @@
+This program finds the minimum number of elements to delete from the array so that all the remaining elements are equal. It works by counting the number of times each number appears in the array.
+ Then it finds the number that appears the most times. Since we want all numbers to be equal, the best choice is to retain the most frequent number and discard all others. The answer is the total number of elements minus the maximum frequency.
